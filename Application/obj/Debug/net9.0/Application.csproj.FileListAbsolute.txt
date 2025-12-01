@@ -1,0 +1,15 @@
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\bin\Debug\net9.0\Application.deps.json
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\bin\Debug\net9.0\Application.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\bin\Debug\net9.0\Application.pdb
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\bin\Debug\net9.0\Domain.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\bin\Debug\net9.0\Domain.pdb
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\Application.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\refint\Application.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\Application.pdb
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Application\obj\Debug\net9.0\ref\Application.dll

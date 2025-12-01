@@ -1,0 +1,15 @@
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\bin\Debug\net9.0\Tests.Data.deps.json
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\bin\Debug\net9.0\Tests.Data.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\bin\Debug\net9.0\Tests.Data.pdb
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\bin\Debug\net9.0\Domain.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\bin\Debug\net9.0\Domain.pdb
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\Tests.Data.csproj.AssemblyReference.cache
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\Tests.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\Tests.Data.AssemblyInfoInputs.cache
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\Tests.Data.AssemblyInfo.cs
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\Tests.Data.csproj.CoreCompileInputs.cache
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\Tests.Data.csproj.Up2Date
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\Tests.Data.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\refint\Tests.Data.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\Tests.Data.pdb
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Tests.Data\obj\Debug\net9.0\ref\Tests.Data.dll

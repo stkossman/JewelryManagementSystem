@@ -1,0 +1,11 @@
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\bin\Debug\net9.0\Domain.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\bin\Debug\net9.0\Domain.pdb
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\obj\Debug\net9.0\Domain.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\obj\Debug\net9.0\Domain.pdb
+D:\!PROGRAMMING PROJECTS\RiderProjects\JewelryManagementSystem\Domain\obj\Debug\net9.0\ref\Domain.dll
